@@ -1,63 +1,63 @@
-// function zero(a){
-//   let zerobtn = document.getElementById('zero').value ;
-//   let zeroVal = zerobtn;
-//   zeroVal =a;
-// }
+function zero(a){
+  let zerobtn = document.getElementById('zero').value ;
+  let zeroVal = zerobtn;
+  zeroVal =a;
+}
 
-// function one(b){
-//   let onebtn = document.getElementById('one').value ;
-//   let oneVal = onebtn;
-//   oneVal =b;
+function one(b){
+  let onebtn = document.getElementById('one').value ;
+  let oneVal = onebtn;
+  oneVal =b;
 
-// }
+}
 
-// function two(c){
-//   let twobtn = document.getElementById('two').value ;
-// let twoVal=twobtn;
-// twoVal =c;
-// }
+function two(c){
+  let twobtn = document.getElementById('two').value ;
+let twoVal=twobtn;
+twoVal =c;
+}
 
-// function three(d){
-//   let threebtn = document.getElementById('three').value ;
-// let threeVal =threebtn;
-// threeVal =d;
-// }
+function three(d){
+  let threebtn = document.getElementById('three').value ;
+let threeVal =threebtn;
+threeVal =d;
+}
 
-// function four(e){
-//   let fourbtn = document.getElementById('four').value ;
-// let fourVal = fourbtn;
-// fourVal =e;
-// }
+function four(e){
+  let fourbtn = document.getElementById('four').value ;
+let fourVal = fourbtn;
+fourVal =e;
+}
 
-// function five(f){
-//   let fivebtn = document.getElementById('five').value ;
-// let fiveVal = fivebtn;
-// fiveVal =f;
-// }
+function five(f){
+  let fivebtn = document.getElementById('five').value ;
+let fiveVal = fivebtn;
+fiveVal =f;
+}
 
-// function six(g){
-//   let sixbtn = document.getElementById('six').value ;
-// let sixVal = sixbtn;
-// sixVal= g;
-// }
+function six(g){
+  let sixbtn = document.getElementById('six').value ;
+let sixVal = sixbtn;
+sixVal= g;
+}
 
-// function seven(h){
-//   let sevenbtn = document.getElementById('seven').value ;
-// let sevenVal = sevenbtn;
-// sevenVal =h;
-// }
+function seven(h){
+  let sevenbtn = document.getElementById('seven').value ;
+let sevenVal = sevenbtn;
+sevenVal =h;
+}
 
-// function eight(i){
-//   let eightbtn = document.getElementById('eight').value ;
-// let eightVal = eightbtn;
-// eightVal =i;
-// }
+function eight(i){
+  let eightbtn = document.getElementById('eight').value ;
+let eightVal = eightbtn;
+eightVal =i;
+}
 
-// function nine(j){
-//   let ninebtn = document.getElementById('nine').value ;
-// let nineVal = ninebtn;
-// nineVal = j;
-// }
+function nine(j){
+  let ninebtn = document.getElementById('nine').value ;
+let nineVal = ninebtn;
+nineVal = j;
+}
 
 function getValues(a,b,c,d,e,f,g,h,i,j){
 
